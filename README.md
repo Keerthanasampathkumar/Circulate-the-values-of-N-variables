@@ -33,7 +33,8 @@ print("After circulating the values are:",circulate())
 
 ## Output:
 
-![record 2](https://user-images.githubusercontent.com/119477890/211262710-3bba766c-25df-48d7-b7fe-217ae570d979.png)
+![Screenshot 2023-01-22 094524](https://user-images.githubusercontent.com/119477890/213900316-18c08233-1c4b-4db5-b30d-a97cbd294865.png)
+
 
 
 
